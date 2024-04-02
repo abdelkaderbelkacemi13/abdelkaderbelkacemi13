@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Abdelkader
+I'm currently a software engineering student.
+I'm currently developing myselft to become better engineer everyday.
+
 
 <!--
 **abdelkaderbelkacemi13/abdelkaderbelkacemi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
